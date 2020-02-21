@@ -1,6 +1,6 @@
 ## User guide
 
----
++ [Download](https://github.com/xlvecle/PushLite/releases)
 
 + GoolgePlayService must be installed because it relies on the FCM Push channel
 
@@ -16,11 +16,12 @@
 
 + You can select the text and right click to push the selected content
 
-
+---
 
 ## 如何使用PushLite
 
----
+
++ [下载](https://github.com/xlvecle/PushLite/releases)
 
 + 必须安装GoolgePlayService，因为依赖FCM Push渠道
 
