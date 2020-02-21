@@ -1,3 +1,10 @@
+
+### features
+
++ Based on [FCM](https://firebase.google.com/docs/cloud-messaging), low power consumption
+
++ No need to request a third-party server, low security risk
+
 ## User guide
 
 + [Download](https://github.com/xlvecle/PushLite/releases)
@@ -17,6 +24,12 @@
 + You can select the text and right click to push the selected content
 
 ---
+
+特点
+
++ 基于[FCM](https://firebase.google.com/docs/cloud-messaging)，低功耗
+
++ 无需通过第三方服务器，低安全风险
 
 ## 如何使用PushLite
 
